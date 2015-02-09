@@ -13,8 +13,8 @@ int AIN1 = 10; //Direction
 int AIN2 = 11; //Direction
 //Motor B
 int PWMB = 6; //Speed control
-int BIN1 = 12; //Direction
-int BIN2 = 13; //Direction
+int BIN1 = 13; //Direction
+int BIN2 = 12; //Direction
 
 int PINA0 = 14;
 int PINA1 = 15;
